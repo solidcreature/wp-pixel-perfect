@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-11 23:53+0300\n"
+"PO-Revision-Date: 2020-08-12 00:20+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: inc/plugin-options.php:58
+msgid "Overlay settings"
+msgstr "Настройки отображения"
+
+#: inc/plugin-options.php:61
+msgid "Overlay image"
+msgstr "Накладываемое изображение"
+
+#: inc/plugin-options.php:62
+msgid "Overlay opacity"
+msgstr "Прозрачность наложения"
+
+#: inc/plugin-options.php:63
+msgid "Step moving overlay in px"
+msgstr "Шаг сдвига наложения"
+
+#: inc/plugin-options.php:64
+msgid "Offset top in px"
+msgstr "Отступ сверху (в пикселях)"
+
+#: inc/plugin-options.php:65
+msgid "Offset left in px"
+msgstr "Отступ слева (в пикселях)"
+
+#: inc/plugin-options.php:66
+msgid "Offset right in px"
+msgstr "Отступ справа (в пикселях)"
+
+#: inc/plugin-options.php:67
+msgid "Z-index of overlay"
+msgstr "Z-index накладываемого изображения"
+
+#: inc/plugin-options.php:68
+msgid "Panel fixed or not"
+msgstr "Автоматически скрывать панель"
+
+#: inc/plugin-options.php:69
+msgid "Image centered"
+msgstr "Центрировать изображение"
+
+#: inc/plugin-options.php:70
+msgid "Overlay position: fixed"
+msgstr "Зафиксировать наложение на экране"
+
+#: inc/plugin-options.php:71
+msgid "Show overlay on page load"
+msgstr "Показывать наложение при загрузке"
+
+#: inc/plugin-options.php:72
+msgid "Place to add"
+msgstr "Прикрепить к тегу"
+
+#: inc/plugin-options.php:74
+msgid "Advanced settings"
+msgstr "Дополнительные настройки"
+
+#: inc/plugin-options.php:75
+msgid "Enable ACF support"
+msgstr "Включить поддержку ACF"
+
+#: inc/plugin-options.php:76
+msgid "Hide from visitors"
+msgstr "Скрывать от посетителей"
+
+#: inc/plugin-options.php:77
+msgid "Show only with ACF"
+msgstr "Отображать только если включено в ACF"

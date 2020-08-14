@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-08-11 23:53+0300\n"
+"PO-Revision-Date: 2020-08-12 00:23+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+#: inc/plugin-options.php:58
+msgid "Overlay settings"
+msgstr "Overlay settings"
+
+#: inc/plugin-options.php:61
+msgid "Overlay image"
+msgstr "Overlay image"
+
+#: inc/plugin-options.php:62
+msgid "Overlay opacity"
+msgstr "Overlay opacity"
+
+#: inc/plugin-options.php:63
+msgid "Step moving overlay in px"
+msgstr "Step moving overlay in px"
+
+#: inc/plugin-options.php:64
+msgid "Offset top in px"
+msgstr "Offset top in px"
+
+#: inc/plugin-options.php:65
+msgid "Offset left in px"
+msgstr "Offset left in px"
+
+#: inc/plugin-options.php:66
+msgid "Offset right in px"
+msgstr "Offset right in px"
+
+#: inc/plugin-options.php:67
+msgid "Z-index of overlay"
+msgstr "Z-index of overlay"
+
+#: inc/plugin-options.php:68
+msgid "Panel fixed or not"
+msgstr "Panel fixed or not"
+
+#: inc/plugin-options.php:69
+msgid "Image centered"
+msgstr "Image centered"
+
+#: inc/plugin-options.php:70
+msgid "Overlay position: fixed"
+msgstr "Overlay position: fixed"
+
+#: inc/plugin-options.php:71
+msgid "Show overlay on page load"
+msgstr "Show overlay on page load"
+
+#: inc/plugin-options.php:72
+msgid "Place to add"
+msgstr "Place to add"
+
+#: inc/plugin-options.php:74
+msgid "Advanced settings"
+msgstr "Advanced settings"
+
+#: inc/plugin-options.php:75
+msgid "Enable ACF support"
+msgstr "Enable ACF support"
+
+#: inc/plugin-options.php:76
+msgid "Hide from visitors"
+msgstr "Hide from visitors"
+
+#: inc/plugin-options.php:77
+msgid "Show only with ACF"
+msgstr "Show only with ACF"
